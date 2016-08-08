@@ -6,9 +6,10 @@ color:
   saturation: 0.4012946344446391
   rhythmicContrast: 0.4417713014408946
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Daring Greatly and Rising Strong
+description: Step Into Sync
