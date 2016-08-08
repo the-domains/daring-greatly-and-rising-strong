@@ -1,4 +1,3 @@
-layout_spectrum: 0.6889602371957153
 typography_spectrum: 0.8951802977826446
 color:
   brandStrength: 0.1428468448575586
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.6889602371957153
 name: Daring Greatly and Rising Strong
+title: Life in Sync
 description: Step Into Sync
